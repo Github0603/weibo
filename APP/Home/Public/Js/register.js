@@ -1,5 +1,5 @@
 $(function () {
-
+	//测试一下
 	//点击刷新验证码
 	var verifyUrl = $('#verify-img').attr('src');
 	$('#verify-img').click(function () {
